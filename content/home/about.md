@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: cer.png
+    image: ""
 ---
 <!--StartFragment-->
 
